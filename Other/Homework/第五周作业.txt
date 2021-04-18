@@ -1,0 +1,41 @@
+请同学们完成作业后，将本周博客作业提交到这个链接里：https://www.wjx.top/vj/OFQr2Uw.aspx
+就业班和全程班的小伙伴作业看这里：
+本周学习内容：
+第九天：
+Linux中shell脚本编程2
+1、shell编程之test实现变量数字和字符串判断.avi
+2、shell脚本编程之条件测试语句实现逻辑判断详解.avi
+3、shell脚本编程条件判断和接入输入处理.avi
+4、shell环境配置文件.avi
+5、shell脚本编程的条件判断if和case详解.avi。
+第十天：
+Linux中文件管理工具和软件包管理工具
+1、文件查找locate和find命令详解.avi
+2、find命令高级用法与xargs及解压缩工具.avi
+3、打包和压缩工具tar和zip等详解.avi                                       
+4、软件编译和运行过程介绍.avi
+5、软件包管理工具rpm.avi
+完成下列作业：
+1、编写脚本 createuser.sh，实现如下功能:使用一个用户名做为参数，如果 指定参数的用户存在，就显示其存在，否则添加之;显示添加的用户的id号等信息
+2、编写生成脚本基本格式的脚本，包括作者，联系方式，版本，时间，描述等
+3、查找/etc目录下大于1M且类型为普通文件的所有文件
+4、打包/etc/目录下面所有conf结尾的文件，压缩包名称为当天的时间，并拷贝到/usr/local/src目录备份。
+5、查找当前系统上没有属主或属组，且最近一个周内曾被访问过的文件或目录
+6、查找/etc目录下至少有一类用户没有执行权限的文件
+单架构班小伙伴作业看这里：
+本周学习内容：
+第九天：代理、session、memched使用和jvm垃圾回收
+1.2020011401代理和Session机制.exe
+2.2020011402Session黏性和复制集群.exe
+3.2020011403memcached和msm.exe
+4.2020011403memcached和msm.exe
+第十天：HAProxy和keepalibved(1)
+1.1HAProxy自定义错误页面及https实现.exe
+1.2HAProxy在Ubuntu编译安装.exe
+2.web高可用集群基础.exe                                      
+3.keepalibved 简介.安装及VIP实现.exe                       
+4.keepalibved 抢占与非抢占 组播与单播 多VIP案例.exe      
+5.keepalived 通知机制及编译安装.exe
+完成下列作业：
+1、实现haproxy+keepalived集群高可用集群转发
+2、tomcat session cluster的实现。
